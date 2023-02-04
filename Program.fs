@@ -7,7 +7,7 @@ let isValid person=
     not(String.IsNullOrWhiteSpace(person))  
 
 let isAllowed person=
-    person<>"Eve"
+    person<>"Eve1"
     
 
 // For more information see https://aka.ms/fsharp-console-apps
